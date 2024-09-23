@@ -13,4 +13,4 @@
   
   ```bash
   pip install pdfkit
-- **Pastikan kamu sudah menginstal wkhtmltopdf**. Kamu bisa menginstal di website wkhtmltopdf https://wkhtmltopdf.org/downloads.html. Jangan lupa untuk menyetel PATH ke folder tempat wkhtmltopdf terinstal
+- **Pastikan kamu sudah menginstal wkhtmltopdf**. Kamu bisa menginstal di website [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html). Jangan lupa untuk menyetel PATH ke folder tempat wkhtmltopdf terinstal
